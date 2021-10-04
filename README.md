@@ -8,4 +8,4 @@ https://en.wikipedia.org/wiki/Doomsday_rule
 1. Clone this repository.
 2. Open ``index.html`` in your browser.
 
-Now you can simply pick a date and click the submit button.
+Now you can simply pick a date and submit.
